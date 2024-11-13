@@ -28,4 +28,8 @@
  - Criação de VMs e informações sobre:
    -   Disponibilidade
    -   Replicação
-   -   
+  - IaaS, PaaS ou SaaS:
+    -   IaaS: Infraestrutura como serviço, basicamente é voce alugar um espaço e ou a infraestrutura em um data center para voce ou sua empresa montar o seu projeto do jeito que precisar.
+    -   PaaS: Plataforma como serviço, voce tem a possibilidade de criar a sua infraestura virtual utilizando as plataformas disponibilizadas pelo seu provedor de serviço e assim voce poderá gerenciar e disponibilizar o seu serviço à terceiros e ou uso próprio. 
+    -   SaaS: Software como serviço, geralmente é a utilização de um software ou pacote de software por assinaturas mensais ou anuais por exemplo o MS Office 365.
+
